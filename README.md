@@ -3,7 +3,7 @@
 
 # Hi, I'm Chinta Hema Chandu Kumar 👋
 
-### AI/ML Enthusiast | Generative AI | Computer Vision
+### AI Trainee @ Calibo AI Academy | AI/ML Enthusiast | Generative AI | Computer Vision
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Exploring+Generative+AI+and+LLMs;Learning+Machine+Learning+and+Computer+Vision;Turning+ideas+into+intelligent+solutions" alt="Typing animation" />
