@@ -1,176 +1,150 @@
-# 👋 Hi, I'm Chinta Hema Chandu Kumar
 
 <div align="center">
 
-### 🤖 Aspiring AI/ML Engineer | Generative AI Developer
+# Hi, I'm Chinta Hema Chandu Kumar 👋
 
-*Building AI-powered applications, intelligent chatbots, and practical solutions.*
+### AI/ML Enthusiast | Generative AI | Computer Vision
 
-📍 Vijayawada, Andhra Pradesh
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Exploring+Generative+AI+and+LLMs;Learning+Machine+Learning+and+Computer+Vision;Turning+ideas+into+intelligent+solutions" alt="Typing animation" />
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/chandukumarchinta)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chinta-hema-chandu-kumar-8b0410398/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandukumarchinta@gmail.com)
+<p>
+  <a href="https://github.com/chandukumarchinta">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/chinta-hema-chandu-kumar-8b0410398/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:chandukumarchinta@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+📍 Vijayawada, Andhra Pradesh, India
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a Computer Science and Engineering student graduating in 2027, passionate about Artificial Intelligence, Machine Learning, Generative AI, and LLM-based applications.
+I'm a final-year **B.Tech Computer Science and Engineering student** passionate about Artificial Intelligence and Machine Learning.
 
-- 🤖 Exploring Generative AI, LLMs, Prompt Engineering, and RAG
-- 🧠 Building AI-powered chatbots and intelligent applications
-- 👁️ Interested in Computer Vision and real-time object detection
-- 🔌 Experienced in integrating AI models and APIs into applications
-- 🚀 Aspiring to develop practical AI products and full-stack applications
+- 🤖 Interested in Generative AI, LLMs, and Computer Vision.
+- 🧠 Exploring AI-powered applications and intelligent assistants.
+- 🔍 Building practical projects to solve real-world problems.
+- 📚 Continuously learning new AI technologies and development tools.
+- 🎯 Goal: To begin my career in AI/ML and contribute to impactful AI solutions.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack & Skills
 
-### Programming Languages
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### Artificial Intelligence
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-6C63FF?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-0A9396?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-2196F3?style=for-the-badge)
 
-### AI, Machine Learning & Generative AI
+### Frameworks & Libraries
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-6A5ACD?style=flat-square)
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-7B61FF?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-00897B?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-0078D4?style=flat-square)
-
-### Libraries & Frameworks
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![YOLO](https://img.shields.io/badge/YOLO-00A8E8?style=flat-square)
-
-### Backend, APIs & Databases
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Google Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
-![Groq API](https://img.shields.io/badge/Groq_API-F55036?style=flat-square)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-**Core Concepts:** OOP, Data Structures and Algorithms (DSA), API Integration, Prompt Engineering.
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 👁️ Object Detection Using YOLO
+### 🤖 Object Detection System
+A computer vision project exploring object detection using YOLO and OpenCV.
 
-- Developed a computer vision application for real-time object detection.
-- Worked with YOLO, OpenCV, and Python.
+**Technologies:** Python, YOLO, OpenCV
 
-**Technologies:** Python · YOLO · OpenCV
+### 🐼 Panda AI
+An AI voice assistant designed to interact with users through voice-based functionality.
 
-### 🐼 PandaAI Chatbot
+**Technologies:** Python, HTML, CSS, JavaScript, Groq API
 
-- Developed an AI-powered conversational assistant.
-- Explored LLM API integration and Retrieval-Augmented Generation (RAG).
+### 🧑‍💼 Persona AI
+An AI-powered interview assistant chatbot designed to support interview practice and interactions.
 
-**Technologies:** Python · LLM APIs · RAG
+**Technologies:** AI, Python, Chatbot Development
 
-### 🤖 AI Interviewer Chatbot
+### 📊 Customer Review Sentiment Analysis
+A project focused on analyzing customer reviews and identifying sentiment from text data.
 
-- Built an AI-based interview practice application.
-- Focused on conversational AI and interview preparation.
+**Technologies:** Python, NLP, Machine Learning
 
-**Technologies:** Python · LLM APIs
+### ☕ Campus Cafe API
+A REST API project for managing campus cafe orders, retrieving order data, and analyzing order information.
 
-*Add direct links to your project repositories when available.*
+**Technologies:** Python, FastAPI, Pandas
 
----
-
-## 💼 Internship Experience
-
-### Generative AI Intern — AIMERS Society
-
-📅 May 2025 – July 2025
-
-- Completed an 8-week Generative AI internship.
-- Worked with AI models and Hugging Face.
-- Gained practical exposure to image classification and object detection.
-
-### Cloud Computing Engineering Intern — ExcelR EdTech Pvt. Ltd.
-
-📅 May 2026 – July 2026
-
-- Completed an internship in Cloud Computing Engineering.
-- Learned foundational cloud services and concepts related to Azure and AWS.
+> Add the actual repository links to these projects once you verify their repository names.
 
 ---
 
-## 📜 Certifications
+## 🎓 Certifications & Learning
 
-### ☁️ Google Cloud
+- 🏅 NPTEL — Three certifications
+- ☁️ Google Cloud Career Launchpad — Computing Foundations
+- 📜 Infosys Springboard — Certifications
+- 🤖 Generative AI Internship — Completed
 
-- Google Cloud Computing Foundations (GCCF)
-- Introduction to Generative AI
-- Introduction to Responsible AI
-- Introduction to Large Language Models
-- Responsible AI
-
-### 🎓 NPTEL
-
-- Blockchain and Its Applications
-- Computer Vision and Image Processing – Fundamentals and Applications
-- Human Computer Interaction (In English)
+*Add certificate names, credential links, and issuing organizations to make this section more useful to recruiters.*
 
 ---
 
-## 🌐 Languages
-
-- Telugu
-- English
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandukumarchinta&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=chandukumarchinta&show_icons=true&theme=tokyonight&hide_border=true" alt="Chandu's GitHub statistics" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandukumarchinta&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandukumarchinta&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+
+<img src="https://streak-stats.demolab.com?user=chandukumarchinta&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 🌱 Currently Learning
 
-<div align="center">
-
-📧 **Email:** [chandukumarchinta@gmail.com](mailto:chandukumarchinta@gmail.com)
-
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/chinta-hema-chandu-kumar-8b0410398/)
-
-💻 **GitHub:** [@chandukumarchinta](https://github.com/chandukumarchinta)
-
-
-📍 **Location:** Vijayawada, Andhra Pradesh
+- Generative AI and Large Language Models
+- AI application development
+- Computer Vision
+- Building and integrating APIs
+- GitHub collaboration and project documentation
 
 ---
 
-⭐ *Thanks for visiting my profile! Let's connect and build something amazing with AI.*
+## 💡 What I Value
+
+- **Curiosity** — Always eager to learn.
+- **Problem Solving** — Finding practical solutions.
+- **Consistency** — Improving through regular practice.
+- **Innovation** — Exploring useful AI applications.
+- **Collaboration** — Learning and building with others.
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 💜
+
+⭐ Explore my repositories and follow my journey in AI and Machine Learning.
 
 </div>
